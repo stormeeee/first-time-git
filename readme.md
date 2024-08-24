@@ -1,4 +1,6 @@
 # First Time git setup
+
+```bash
 sudo apt install git -y
 sudo apt install gh
 
@@ -6,6 +8,7 @@ git config --global user.name <>
 git config --global user.email <>
 git config --list
 gh auto login
+```
 
 # To create a repository from cmd and push refs from cmd
 1. Initialise the code folder as a git repository
