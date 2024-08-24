@@ -2,7 +2,7 @@
 
 ```bash
 sudo apt install git -y
-sudo apt install gh
+sudo apt install gh -y
 
 git config --global user.name <>
 git config --global user.email <>
